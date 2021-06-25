@@ -4,4 +4,5 @@ it is a really awesome website
 
 Now edit on update-readme branch
 
-Updated locally
+## Purpose
+this file is just a readme file.
