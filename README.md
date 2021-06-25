@@ -11,3 +11,6 @@ with whatever in on the remote side
 ## Purpose
 this file is just a readme file.
 
+##  getting started
+
+to clone this repo
